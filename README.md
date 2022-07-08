@@ -6,11 +6,10 @@ I am a computer science student and aspiring software developer, and I am docume
 I write posts about what I am studying and learning, as well careers in tech. 
 
 In my free time, I like to 
-- read books
+- read books & fashion magazines
 - bike (I built an app to track how many miles I bike!)
 - watch birds 
 - bake
 - spend time with my family and friends
-- watching TV and movies
-- read fashion magazines! 
+- watch TV and movies
 

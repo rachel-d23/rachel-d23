@@ -1,6 +1,6 @@
 ## Hi, I'm Rachel!
 
-I am a computer science student and aspiring software developer, and I am strengthening my coding skills by writing for my blog: 
+I am a computer science student at Georgia Tech, and I am strengthening my coding skills by writing for my blog: 
 >Rachel Decodes Tech. 
 
 I write posts about what I am studying and learning, as well careers in tech. 

@@ -1,9 +1,9 @@
 ## Hi, I'm Rachel!
 
-I am a computer science student at Georgia Tech, and I am strengthening my coding skills by writing for my blog: 
+I am a computer science student at Georgia Tech, and I am excited to share my new programming blog: 
 >Rachel Decodes Tech. 
 
-I write posts about what I am studying and learning, as well careers in tech. 
+I write posts about what I am studying and learning, as well about careers in tech. 
 
 In my free time, I like to 
 - read books & fashion magazines

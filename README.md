@@ -3,7 +3,7 @@
 I am a computer science student at Georgia Tech, and I am excited to share my new programming blog: 
 >Rachel Decodes Tech. 
 
-I write posts about what I am studying and learning, as well about careers in tech. 
+I write posts every week about what I am studying and learning, as well about careers in tech. 
 
 In my free time, I like to 
 - read books & fashion magazines
